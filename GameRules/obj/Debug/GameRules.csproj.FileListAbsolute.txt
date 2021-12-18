@@ -1,0 +1,10 @@
+C:\Code-UDLA\Progra 5\MobileGameMRE_Hiriart-Corales-Estupinan-Galvez\GameRules\obj\Debug\GameRules.csproj.AssemblyReference.cache
+C:\Code-UDLA\Progra 5\MobileGameMRE_Hiriart-Corales-Estupinan-Galvez\GameRules\obj\Debug\GameRules.csproj.CoreCompileInputs.cache
+C:\Code-UDLA\Progra 5\MobileGameMRE_Hiriart-Corales-Estupinan-Galvez\GameRules\bin\Debug\GameRules.exe.config
+C:\Code-UDLA\Progra 5\MobileGameMRE_Hiriart-Corales-Estupinan-Galvez\GameRules\bin\Debug\GameRules.exe
+C:\Code-UDLA\Progra 5\MobileGameMRE_Hiriart-Corales-Estupinan-Galvez\GameRules\bin\Debug\GameRules.pdb
+C:\Code-UDLA\Progra 5\MobileGameMRE_Hiriart-Corales-Estupinan-Galvez\GameRules\bin\Debug\Newtonsoft.Json.dll
+C:\Code-UDLA\Progra 5\MobileGameMRE_Hiriart-Corales-Estupinan-Galvez\GameRules\bin\Debug\Newtonsoft.Json.xml
+C:\Code-UDLA\Progra 5\MobileGameMRE_Hiriart-Corales-Estupinan-Galvez\GameRules\obj\Debug\GameRules.csproj.CopyComplete
+C:\Code-UDLA\Progra 5\MobileGameMRE_Hiriart-Corales-Estupinan-Galvez\GameRules\obj\Debug\GameRules.exe
+C:\Code-UDLA\Progra 5\MobileGameMRE_Hiriart-Corales-Estupinan-Galvez\GameRules\obj\Debug\GameRules.pdb
