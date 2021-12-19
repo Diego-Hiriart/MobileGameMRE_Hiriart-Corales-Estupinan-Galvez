@@ -44,8 +44,7 @@ public class UIController : MonoBehaviour
     }
 
     public void WinLoseMessage(bool wonLost)
-    {
-        this.winLoseObj.SetActive(true);
+    {     
         if (wonLost)
         {
             this.health.text = "You Won!";
@@ -54,5 +53,6 @@ public class UIController : MonoBehaviour
         {
             this.health.text = "You Lost";
         }
+        this.winLoseObj.SetActive(true);
     }
 }

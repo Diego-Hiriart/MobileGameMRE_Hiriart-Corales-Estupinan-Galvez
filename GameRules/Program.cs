@@ -25,7 +25,7 @@ namespace GameRules
             Func<Player, bool> healthCompiled = engine.CompileRule<Player>(health);
 
             Rule speedUp = Rule.Create("PickUpCount", mreOperator.GreaterThanOrEqual, 4) &
-                Rule.Create("Speed", mreOperator.LessThanOrEqual, 10);//Pick ups give more speed if speed isnt to high already and you have som pick ups
+                Rule.Create("Speed", mreOperator.LessThan, 10);//Pick ups give more speed if speed isnt to high already and you have som pick ups
             Func<Player, bool> speedUpCompiled = engine.CompileRule<Player>(speedUp);
 
             Rule pickUpsHeal = Rule.Create("PickUpCount", mreOperator.GreaterThan, 6) &

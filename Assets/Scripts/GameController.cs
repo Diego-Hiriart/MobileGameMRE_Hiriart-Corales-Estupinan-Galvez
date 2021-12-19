@@ -51,15 +51,15 @@ public class GameController : MonoBehaviour
         }
 
         if (this.player.GetPlayerInfo().GetLives() <= 0)
-        {
-            Time.timeScale = 0;
+        {           
             this.ui.WinLoseMessage(false);//False if game is lost
+            Time.timeScale = 0;
         }
 
         if (this.player.GetPlayerInfo().GetPickUpCount() >= this.maxPoints)
-        {
-            Time.timeScale = 0;
+        {           
             this.ui.WinLoseMessage(true);//False if game is won
+
         }
     }
 }

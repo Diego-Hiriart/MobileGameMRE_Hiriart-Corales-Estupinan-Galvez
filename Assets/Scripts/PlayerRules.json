@@ -20,7 +20,7 @@
       },
       {
         "MemberName": "Speed",
-        "Operator": "LessThanOrEqual",
+        "Operator": "LessThan",
         "TargetValue": 10,
         "Rules": null,
         "Inputs": []
