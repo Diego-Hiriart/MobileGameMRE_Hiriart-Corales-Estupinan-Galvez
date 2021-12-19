@@ -1,0 +1,60 @@
+[
+  {
+    "MemberName": "Health",
+    "Operator": "LessThanOrEqual",
+    "TargetValue": 15,
+    "Rules": null,
+    "Inputs": []
+  },
+  {
+    "MemberName": null,
+    "Operator": "AndAlso",
+    "TargetValue": null,
+    "Rules": [
+      {
+        "MemberName": "PickUpCount",
+        "Operator": "GreaterThanOrEqual",
+        "TargetValue": 4,
+        "Rules": null,
+        "Inputs": []
+      },
+      {
+        "MemberName": "Speed",
+        "Operator": "LessThan",
+        "TargetValue": 10,
+        "Rules": null,
+        "Inputs": []
+      }
+    ],
+    "Inputs": []
+  },
+  {
+    "MemberName": null,
+    "Operator": "AndAlso",
+    "TargetValue": null,
+    "Rules": [
+      {
+        "MemberName": "PickUpCount",
+        "Operator": "GreaterThan",
+        "TargetValue": 6,
+        "Rules": null,
+        "Inputs": []
+      },
+      {
+        "MemberName": "Lives",
+        "Operator": "LessThanOrEqual",
+        "TargetValue": 2,
+        "Rules": null,
+        "Inputs": []
+      },
+      {
+        "MemberName": "Health",
+        "Operator": "LessThan",
+        "TargetValue": 30,
+        "Rules": null,
+        "Inputs": []
+      }
+    ],
+    "Inputs": []
+  }
+]
